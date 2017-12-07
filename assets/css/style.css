@@ -221,6 +221,8 @@ footer {
 	bottom: -150px;
 }
 
+
+/*CSS for Mobile Responsive*/
 @media only screen and (max-width: 960px) {
 
 .wrapper {
@@ -239,6 +241,8 @@ footer {
 
 }
 
+/*Tablet Screen*/
+
 @media only screen and (max-width: 768px) {
 
 .wrapper {
@@ -255,6 +259,8 @@ footer {
 }
 
 }
+
+/*Mobile Device*/
 
 @media only screen and (max-width: 640px) {
 
